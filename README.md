@@ -1,6 +1,5 @@
-# Traffic Signs Detection
+# Traffic Signs Detection using CNN
  
-# German Traffic Sign Recognition using CNN
 
 This project demonstrates how to build and train a Convolutional Neural Network (CNN) to classify German traffic signs using the GTSRB (German Traffic Sign Recognition Benchmark) dataset. The dataset can be found [here](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
 
